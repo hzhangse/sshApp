@@ -7,6 +7,11 @@ import org.springframework.web.context.support.WebApplicationContextUtils;
 import com.javatrian.struts2.service.UserInfoService;
 import com.opensymphony.xwork2.ActionSupport;
 
+/**
+ * 
+ * @author hzhangse
+ *
+ */
 public class LoginAction extends ActionSupport {
 	
 	public final static String LOGIN_SESSION_KEY = "LOGIN_KEY";
