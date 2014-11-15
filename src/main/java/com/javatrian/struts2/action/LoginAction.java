@@ -10,6 +10,7 @@ import com.opensymphony.xwork2.ActionSupport;
 /**
  * 
  * @author hzhangse
+ * test
  *
  */
 public class LoginAction extends ActionSupport {
